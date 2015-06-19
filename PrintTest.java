@@ -1,8 +1,10 @@
+import org.junit.Test;
+
 public class PrintTest
 {
-	public static void main(String[] args)
-	{
-		System.out.println("Hello World!");
-		System.out.println("Hi");
-	}
+	@Test
+	public void multiplicationOfZeroIntegersShouldReturnZero() {
+
+    //test goes here
+  }
 }
